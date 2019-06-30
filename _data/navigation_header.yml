@@ -27,6 +27,10 @@ left:
 
 right:
 
+  # - title: Blog
+    # url: /blog/
+    # button: primary-outline
+
   # - title: Changelog
     # url: /changelog-timeline/
     # button: primary-outline
@@ -35,9 +39,9 @@ right:
     # url: /contact/
     # button: success
 
-  # - title: Changelog
-  #   url: /contact/
-  #   button: default
+  - title: Contact
+    url: /contact/
+    button: default
 
   # - title: Contact
   #   url: /contact/

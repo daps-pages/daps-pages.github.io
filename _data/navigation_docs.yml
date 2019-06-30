@@ -2,7 +2,7 @@
   docs:
   - reanalyses
   - instrumental
-  - prxoy
+  - proxy
   - gcm
   - lgm
 
@@ -16,3 +16,13 @@
 - title: Proxy System Modeling
   docs:
   - prysm
+  - prysm-api
+  - vsl
+  - sedproxy
+  - karst
+  - maiden
+  - oggm
+  - schmidt
+  - bayspar
+  - bayspline
+  - bayfox

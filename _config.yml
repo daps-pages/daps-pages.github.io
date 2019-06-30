@@ -6,7 +6,7 @@
 
 # Site title and description
 title:              DAPS Nexus
-description:        a central repository for DAPS resources
+description:        a central repository of DAPS resources
 lang:               en
 
 # Site subpath, e.g. /blog
@@ -33,10 +33,10 @@ author:
 
 # Author settings, displayed on post and doc pages if front matter references author name e.g. author: peter
 authors:
-    # fzhu:
-      # name:         Feng Zhu
-      # title:        Webmaster
-      # avatar:
+    fzhu:
+      name:         Feng Zhu
+      title:        Webmaster
+      avatar:
 
 # Social icons displayed in footer
 social:

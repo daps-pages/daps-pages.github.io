@@ -3,7 +3,7 @@ layout: page
 width: expand
 hero:
     title: DAPS Nexus
-    subtitle: A central repository for DAPS resources
+    subtitle: A central repository of Paleoclimate Reanalyses, Data Assimilation and Proxy System modeling (DPAS) resources for the broader community
     image: daps-logo.png
     search: true
 ---
