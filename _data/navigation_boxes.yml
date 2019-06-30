@@ -1,0 +1,16 @@
+# Boxes include navigation
+
+- title: Data Resources
+  desc: A list of data resources
+  icon: file-text
+  doc: data
+
+- title: Data Assimilation
+  desc: Optimize estimation based on prior and observation
+  icon: cog
+  doc: da
+
+- title: Proxy System Modeling
+  desc: Forward environmentals to the proxy space
+  icon: nut
+  doc: psm
