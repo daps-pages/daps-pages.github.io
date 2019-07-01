@@ -3,8 +3,14 @@
 # - title: Home
   # url: /
 
-# - title: Docs
-  # url: /docs/installation/
+- title: Data Resources
+  url: /docs/data/
+
+- title: Data Assimilation
+  url: /docs/da/
+
+- title: Proxy System Modeling
+  url: /docs/psm/
 
 # - title: Blog
   # url: /blog/
