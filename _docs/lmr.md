@@ -11,7 +11,5 @@ tags: [LMR, DA]
 
 ### Publications
 
-+ Hakim, G. J., J. Emile‐Geay, E. J. Steig, D. Noone, D. M. Anderson, R.  Tardif, N. Steiger, and W. A. Perkins, 2016: The last millennium climate reanalysis project: Framework and first results. Journal of Geophysical Research: Atmospheres, 121, 6745–6764, <https://doi.org/10.1002/2016JD024751>.
-+ Tardif, R., Hakim, G. J., Perkins, W. A., Horlick, K. A., Erb, M. P., Emile-Geay, J., Anderson, D. M., Steig, E. J., and Noone, D.: Last Millennium Reanalysis with an expanded proxy database and seasonal proxy modeling, Clim. Past Discuss., <https://doi.org/10.5194/cp-2018-120>, in review, 2018.
-
-
++ Hakim GJ, Emile‐Geay J, Steig EJ, et al (2016) The last millennium climate reanalysis project: Framework and first results. Journal of Geophysical Research: Atmospheres 121:6745–6764. doi: <https://doi.org/10.1002/2016JD024751>
++ Tardif R, Hakim GJ, Perkins WA, et al (2019) Last Millennium Reanalysis with an expanded proxy database and seasonal proxy modeling. Climate of the Past 15:1251–1273. doi: <https://doi.org/10.5194/cp-15-1251-2019>
